@@ -1,0 +1,8 @@
+test.cp	code1.c	100.00
+test.cp	code2.c	84.64
+test.cp	code3.c	88.98
+test.cp	code4.c	71.08
+test.cp	code5.c	0.00
+test.cp	code6.c	0.00
+test.cp	code7.c	0.00
+test.cp	code8.c	0.00
